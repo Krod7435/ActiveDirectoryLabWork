@@ -3,7 +3,7 @@
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-In this lab i demonstrated how to create an Active Directory home lab environment using Oracle Virtual Box. I started by configuring and running the lab to show a understand of how active directory and windows networking works. This is a home lab test i made myself to test out for my own results i managed to obtain. Please let me know if you have any questions to discuss the active directory home lab with me.  
+In this lab i demonstrated how to create an Active Directory home lab environment using Oracle Virtual Box. I started by configuring and running the lab to show a understanding of how active directory and windows networking works. This is a home lab test i made myself to test out for my own results i managed to obtain. Please let me know if you have any questions to discuss the active directory home lab with me.  
 <br />
 
 
@@ -27,6 +27,11 @@ Creating Users With PowerShell <br/>
   <p align="center">
 Creating Users With PowerShell <br/>
 <img src="https://i.imgur.com/HVpgTEh.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+   <p align="center">
+Active Directory Home Lab Test Demonstration Overview Layout   <br/>
+<img src="https://i.imgur.com/ykjmIDd.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 </p>
 
