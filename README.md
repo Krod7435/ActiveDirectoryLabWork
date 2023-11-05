@@ -11,6 +11,7 @@ In this lab i demonstrated how to create an Active Directory home lab environmen
 
 - <b>PowerShell</b> 
 - <b>Diskpart</b>
+- <b>Oracle Virtual Box</b>
 
 <h2>Environments Used </h2>
 
